@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902338572516",
+    "project_id": "hindi-song-60bf0",
+    "storage_bucket": "hindi-song-60bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902338572516:android:482b9fbf5a3b80ed9c7cf1",
+        "android_client_info": {
+          "package_name": "com.itnation.hindisong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6aNstZj6Lm9xnYpOs_EwyRpaZ-gvz3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
